@@ -11,13 +11,13 @@ font-family: "PT Sans", sans-serif;
 h1{
     color: lightgray;
     padding-top: 3em;
-    margin: 1rem;
+    margin: 2rem;
 }
 
 img{
-    width: 75%;
+    width: 80%;
     height: 50%;
-    float: right;
+    vertical-align: center;
 }
 p{
     color: lightgray;
